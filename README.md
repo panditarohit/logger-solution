@@ -1,7 +1,7 @@
-#Logger-solution
+## Logger-solution
 Description : Tail Logs from a remote server
 
-##Prerequisites 
+# Prerequisites 
 Install all the required python modules using pip3:
 flask 
 loguru
