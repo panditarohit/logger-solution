@@ -4,7 +4,6 @@ Description : Tail Logs from a remote server
 ## Prerequisites 
 Install all the required python modules using pip3: 
 - flask 
-- loguru
 - os
 - time
 - paramiko

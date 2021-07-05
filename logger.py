@@ -1,5 +1,4 @@
 from flask import Flask, render_template, Response, request
-from loguru import logger
 import os
 from time import sleep
 import paramiko
